@@ -4,4 +4,4 @@
 ## TODO
 
 The repo is still being under construction, thanks for your patience. 
-- [] Realised the training code.
+- [ ] Realised the training code.

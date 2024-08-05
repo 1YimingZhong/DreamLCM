@@ -4,4 +4,5 @@
 ## TODO
 
 The repo is still being under construction, thanks for your patience. 
-- [ ] Realised the training code.
+- [ ] Release the training code.
+- [ ] Release the training scripts

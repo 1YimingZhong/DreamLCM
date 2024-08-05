@@ -4,6 +4,4 @@
 ## TODO
 
 The repo is still being under construction, thanks for your patience. 
-- [x] Tutorial for hyperparameter tuning.
-- [x] Step-by-step tutorial for WebUI .
-- [x] Realised WebUI beta version and GaussianEditor.
+- [] Realised the training code.
